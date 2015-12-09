@@ -1,2 +1,3 @@
-README for LigaBaloncesto
+LigaBaloncesto
 ==========================
+JHipster v2.20
